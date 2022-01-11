@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created using Krita: https://krita.org -->
+<svg xmlns="http://www.w3.org/2000/svg" 
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:krita="http://krita.org/namespaces/svg/krita"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    width="72pt"
+    height="72pt"
+    viewBox="0 0 72 72">
+<defs/>
+<path id="shape0" transform="matrix(0.0203488105892593 -0.364753811357073 0.368041320502755 -0.012958242513993 14.6127214561546 59.8406032083713)" fill="none" stroke="#000000" stroke-width="0.96" stroke-linecap="square" stroke-linejoin="bevel" d="M0 1.4425L5.09117 1.18794C9.54989 10.3019 7.3724 1.91582 6.24732 1.0998L10.0613 0.675495C13.8982 14.3735 12.2053 5.28788 11.2423 0.585458L16.1424 0.211912C16.7721 4.52674 16.8147 1.21873 17.0294 0.14429L18.9222 0L21.7286 3.03609C18.1941 8.13863 16.0302 11.7151 23.3237 4.76178L42.5413 25.3639L41.1424 28.3312C51.79 36.5931 50.6335 36.0701 40.4623 29.2157L38.0989 31.141L19.3411 23.8936C20.6876 22.7999 28.1694 18.7161 17.8389 23.3133L9.22865 19.9866C11.9724 17.2483 10.7765 17.8637 8.25271 19.6095L4.4972 18.1585L3.04726 12.7691C9.21698 12.021 15.493 11.2679 2.67965 11.4027L1.15767 5.74555C3.54447 5.72441 3.18578 5.20068 0.768811 4.30015Z"/><path id="shape1" transform="matrix(-0.233495133172448 -0.260302415790387 0.285216602733063 -0.255843528904387 20.1758800399402 52.8596727142763)" fill="none" stroke="#000000" stroke-width="0.96" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2" d="M5.70154 24.6364C-1.53497 -7.51382 -2.56579 -8.86226 6.60154 24.5164"/><path id="shape2" transform="translate(13.4701633455133, 5.67416153517594)" fill="none" stroke="#000000" stroke-width="0.72" stroke-linecap="square" stroke-linejoin="bevel" d="M24.0803 8.33672C12.2075 9.84519 5.24686 -3.96446 1.40027 1.13672C-6.21647 12.0479 19.9501 32.1417 15.0803 35.6967"/><rect id="shape3" transform="matrix(0.838076539281094 0.545552668682528 -0.545552668682528 0.838076539281094 28.738059263367 40.5414509566213)" fill="none" stroke="#000000" stroke-width="0.72" stroke-linecap="square" stroke-linejoin="bevel" width="0.719999999999999" height="1.2"/><rect id="shape4" transform="matrix(0.902920608724851 -0.429807368875816 0.429807368875816 0.902920608724851 37.622876846021 13.8872453999725)" fill="none" stroke="#000000" stroke-width="1.2" stroke-linecap="square" stroke-linejoin="bevel" width="0.960000000000001" height="56.88"/>
+</svg>
